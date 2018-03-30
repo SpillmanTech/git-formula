@@ -1,0 +1,8 @@
+name: git
+os: RedHat, CentOS, Windows
+os_family: RedHat, Windows
+version: 201803
+release: 1
+summary: Install git either by source or by package
+description: Install git either by source or by package 
+top_level_dir: git
